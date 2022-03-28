@@ -1,0 +1,13 @@
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\bin\Debug\netcoreapp3.1\DirectoriesGoBrrrr.exe
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\bin\Debug\netcoreapp3.1\DirectoriesGoBrrrr.deps.json
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\bin\Debug\netcoreapp3.1\DirectoriesGoBrrrr.runtimeconfig.json
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\bin\Debug\netcoreapp3.1\DirectoriesGoBrrrr.runtimeconfig.dev.json
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\bin\Debug\netcoreapp3.1\DirectoriesGoBrrrr.dll
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\bin\Debug\netcoreapp3.1\DirectoriesGoBrrrr.pdb
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\obj\Debug\netcoreapp3.1\DirectoriesGoBrrrr.csprojAssemblyReference.cache
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\obj\Debug\netcoreapp3.1\DirectoriesGoBrrrr.AssemblyInfoInputs.cache
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\obj\Debug\netcoreapp3.1\DirectoriesGoBrrrr.AssemblyInfo.cs
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\obj\Debug\netcoreapp3.1\DirectoriesGoBrrrr.csproj.CoreCompileInputs.cache
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\obj\Debug\netcoreapp3.1\DirectoriesGoBrrrr.dll
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\obj\Debug\netcoreapp3.1\DirectoriesGoBrrrr.pdb
+G:\Projekty robocze VS\DirectoriesGoBrrrr\DirectoriesGoBrrrr\obj\Debug\netcoreapp3.1\DirectoriesGoBrrrr.genruntimeconfig.cache

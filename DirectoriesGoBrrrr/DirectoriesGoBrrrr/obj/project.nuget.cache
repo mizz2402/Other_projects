@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VqZlfwY76cNSfbch1XvbKaX6phXG59+0xPsWY06ZzkG9yCeUnP9vA1u36mE6SYcfxzthabPPUhwbXDA3oHiVPA==",
+  "success": true,
+  "projectFilePath": "H:\\Projekty robocze VS\\DirectoriesGoBrrrr\\DirectoriesGoBrrrr\\DirectoriesGoBrrrr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mizz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\mizz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mizz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mizz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
